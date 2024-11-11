@@ -27,5 +27,6 @@
 | 1 | UTS Grafika Komputer | UTS |
 
 # SCREENSHOT PROGRAM
+[Lihat file index.html] (https://github.com/AlfaUX/UTS_Grafkom_ROHID/blob/main/index.html)
 
 | Alfart - Task - Matakuliah Grafika Komputer |
